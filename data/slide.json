@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Our team",
+    "image": "img/slide/1.png"
+  },
+  {
+    "title": "Developing",
+    "image": "img/slide/2.jpeg"
+  },
+  {
+    "title": "Developing",
+    "image": "img/slide/side1.jpg"
+  },
+  {
+    "title": "Developing",
+    "image": "img/slide/side2.jpg"
+  },
+  {
+    "title": "Developing",
+    "image": "img/slide/side3.jpg"
+  },
+  {
+    "title": "Developing",
+    "image": "img/slide/side4.jpg"
+  },
+  {
+    "title": "Innovation",
+    "image": "img/slide/slide03.webp",
+    "color": "text-black"
+  }
+]
