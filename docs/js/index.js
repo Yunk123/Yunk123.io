@@ -26,7 +26,7 @@ function init(){
 }
 
 function createMash(){
-    let url = './imgs/gkd/'
+    let url = './img/gkd/'
 
     if(!mesh){
         var a = [
